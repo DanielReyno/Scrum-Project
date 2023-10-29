@@ -10,7 +10,7 @@
 <h1>Link del entorno de Trabajo Jira y Video Scrum Pocker</h1>
 
 Link jira: https://dcugrupo4seccion6.atlassian.net/jira/software/projects/PROG3/boards/3/backlog?epics=visible <br>
-Link video Acticidad Scrum Pocker: https://youtu.be/aiVbEosv4Ng
+Link video Actividad Scrum Pocker: https://youtu.be/aiVbEosv4Ng
 
 <h1>Backlog</h1>
 
