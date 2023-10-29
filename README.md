@@ -20,6 +20,10 @@ Link video Acticidad Scrum Pocker: https://youtu.be/aiVbEosv4Ng
 
 ![51904aeb-1481-435e-a1d5-0f7c60c75aa5](https://github.com/DanielReyno/Scrum-Project/assets/121466966/890ef60c-231b-4237-919f-c4b16a70753d)
 
+<h1>Calendario de reuniones</h1>
+
+![image](https://github.com/DanielReyno/Scrum-Project/assets/121466966/3367f92b-e0fb-4e71-a7fa-dcf94c356175)
+
 <h1>Cronograma del proyecto</h1>
 
 ![Screenshot 2023-10-29 124750](https://github.com/DanielReyno/Scrum-Project/assets/121466966/8277414a-4589-4a65-bdc1-607d861a7a90)
