@@ -1,6 +1,14 @@
+Integrantes del grupo:
+  Daniel Reynoso (2021-1571)
+  Joel Matos (2021-1050)
+  Josue Mesa (2021-1155)
+  Misael Samboy (2021-1066)
+
+
+
 <h1>Link del entorno de Trabajo Jira</h1>
 
-https://dcugrupo4seccion6.atlassian.net/jira/software/projects/PROG3/boards/3/backlog?epics=visible
+Link: https://dcugrupo4seccion6.atlassian.net/jira/software/projects/PROG3/boards/3/backlog?epics=visible
 
 <h1>Backlog</h1>
 
