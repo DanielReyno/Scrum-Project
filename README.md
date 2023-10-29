@@ -1,3 +1,7 @@
+<h1>Link del entorno de Trabajo Jira</h1>
+
+https://dcugrupo4seccion6.atlassian.net/jira/software/projects/PROG3/boards/3/backlog?epics=visible
+
 <h1>Backlog</h1>
 
 ![Screenshot 2023-10-29 120806](https://github.com/DanielReyno/Scrum-Project/assets/121466966/bc8a2ec9-5c3c-40cb-b9ed-46f4c8d1ecbf)
