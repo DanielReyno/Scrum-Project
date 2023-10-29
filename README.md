@@ -1,4 +1,4 @@
-Integrantes del grupo:
+<h1>Integrantes del grupo:</h1><br>
   Daniel Reynoso (2021-1571)<br>
   Joel Matos (2021-1050)<br>
   Josue Mesa (2021-1155)<br>
