@@ -31,6 +31,8 @@ Link video Acticidad Scrum Pocker: https://youtu.be/aiVbEosv4Ng
 <h1>Incremento</h1>
 
 ![Diseño sin título (1)](https://github.com/DanielReyno/Scrum-Project/assets/121466966/5493180d-0c40-4eaf-bd7f-06efce49a1ab)
+![Incremento](https://github.com/DanielReyno/Scrum-Project/assets/121466966/327de8be-d6f9-4233-aa37-65d5012a8c19)
+
 
 
 
