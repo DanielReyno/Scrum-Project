@@ -28,3 +28,8 @@ Link video Acticidad Scrum Pocker: https://youtu.be/aiVbEosv4Ng
 
 ![Screenshot 2023-10-29 125056](https://github.com/DanielReyno/Scrum-Project/assets/121466966/38cef15c-14db-41cd-92de-12cdea3aef0e)
 
+<h1>Incremento</h1>
+
+![photo_2023-10-29_15-59-52](https://github.com/DanielReyno/Scrum-Project/assets/121466966/2c6ef6d4-f2c6-49ab-863c-359e5987e00f)
+
+
