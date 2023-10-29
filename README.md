@@ -3,6 +3,7 @@
   Joel Matos (2021-1050)<br>
   Josue Mesa (2021-1155)<br>
   Misael Samboy (2021-1066)<br>
+  Adonis Rijo (2021-1491)
 
 
 
