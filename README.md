@@ -1,4 +1,6 @@
+<h1>Backlog</h1>
 
+![Screenshot 2023-10-29 120806](https://github.com/DanielReyno/Scrum-Project/assets/121466966/bc8a2ec9-5c3c-40cb-b9ed-46f4c8d1ecbf)
 
 <h1>Sprint Backlog<h1>
 
