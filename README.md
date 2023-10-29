@@ -19,3 +19,12 @@ Link video Acticidad Scrum Pocker: https://youtu.be/aiVbEosv4Ng
 <h1>Sprint Backlog<h1>
 
 ![51904aeb-1481-435e-a1d5-0f7c60c75aa5](https://github.com/DanielReyno/Scrum-Project/assets/121466966/890ef60c-231b-4237-919f-c4b16a70753d)
+
+<h1>Cronograma del proyecto</h1>
+
+![Screenshot 2023-10-29 124750](https://github.com/DanielReyno/Scrum-Project/assets/121466966/8277414a-4589-4a65-bdc1-607d861a7a90)
+
+<h1>Sprint Completado con 2 incidencias</h1>
+
+![Screenshot 2023-10-29 125056](https://github.com/DanielReyno/Scrum-Project/assets/121466966/38cef15c-14db-41cd-92de-12cdea3aef0e)
+
