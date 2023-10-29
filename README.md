@@ -20,7 +20,6 @@ Link video Acticidad Scrum Pocker: https://youtu.be/aiVbEosv4Ng
 
 ![51904aeb-1481-435e-a1d5-0f7c60c75aa5](https://github.com/DanielReyno/Scrum-Project/assets/121466966/890ef60c-231b-4237-919f-c4b16a70753d)
 
-
 <h1>Cronograma del proyecto</h1>
 
 ![Screenshot 2023-10-29 124750](https://github.com/DanielReyno/Scrum-Project/assets/121466966/8277414a-4589-4a65-bdc1-607d861a7a90)
@@ -31,6 +30,7 @@ Link video Acticidad Scrum Pocker: https://youtu.be/aiVbEosv4Ng
 
 <h1>Incremento</h1>
 
-![photo_2023-10-29_15-59-52](https://github.com/DanielReyno/Scrum-Project/assets/121466966/2c6ef6d4-f2c6-49ab-863c-359e5987e00f)
+![Diseño sin título](https://github.com/DanielReyno/Scrum-Project/assets/121466966/1be4a61f-748e-4542-8540-c7393969047f)
+
 
 
