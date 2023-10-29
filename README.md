@@ -1,8 +1,8 @@
 Integrantes del grupo:
-  Daniel Reynoso (2021-1571)
-  Joel Matos (2021-1050)
-  Josue Mesa (2021-1155)
-  Misael Samboy (2021-1066)
+  Daniel Reynoso (2021-1571)<br>
+  Joel Matos (2021-1050)<br>
+  Josue Mesa (2021-1155)<br>
+  Misael Samboy (2021-1066)<br>
 
 
 
